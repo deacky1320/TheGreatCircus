@@ -1,6 +1,6 @@
-# **THE GREAT CARNIVAL**
+# **THE GREAT CIRCUS**
 
-
+Repositorio para la produccion del proyecto "The Great Circus" de la materia Optimización de Videojuegos del grupo 053.
 
 ### PITCH
 
@@ -58,6 +58,7 @@ Se espera que el juego pueda correr a 60 fps
 
 
 ### MÉTRICAS
+
 
 
 
