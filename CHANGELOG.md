@@ -6,4 +6,7 @@ Todos los cambios importantes de este proyecto serán documentados en este archi
 
 ## [0.1.0] - 2026-02-07
 ### Added
-- Repositorio creado
+- Repositorio creado.
+- Pantalla de inicio.
+- Landscape ambientado en el desierto.
+- Nuevos modelos con ambientación tipo carnaval.
